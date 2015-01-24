@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zappos Weather App</string>
+    <string name="welcome">Welcome to Weather App!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt">Enter zip code to receive current weather information</string>
+    <string name="zip">Enter Zip Code</string>
+    <string name="search">Search</string>
+    <string name="currLoc">Weather based on your location</string>
+    <string name="title_activity_current_weather">CurrentWeather</string>
+    <string name="viewForecast">View 5 Day Forecast</string>
+    <string name="title_activity_forecast">Forecast</string>
+    <string name="gettingLocation">Getting Your Location...</string>
+    <string name="title_activity_your_location">YourLocation</string>
+
+</resources>
